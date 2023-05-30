@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DimaSerbenyuk
+- 👋 Hi, I’m @DmytroSerbeniuk
 
 - 📫 How to reach me: https://www.linkedin.com/in/dima-serbenyuk-b64b15128/
 
