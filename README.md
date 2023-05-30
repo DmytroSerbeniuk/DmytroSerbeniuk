@@ -6,6 +6,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSerbeniuk&hide=css,sourcepawn&layout=compact)](https://github.com/DimaSerbenyuk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSerbeniuk&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
