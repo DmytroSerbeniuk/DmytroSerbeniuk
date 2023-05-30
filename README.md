@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmytroSerbeniuk
 
-- 📫 How to reach me: https://www.linkedin.com/in/dima-serbenyuk-b64b15128/
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dmytro-serbeniuk-b64b15128/)
 
 ![Dmitriy's github stats](https://github-readme-stats.vercel.app/api?username=DmytroSerbeniuk&show_icons=true&&count_private=true)
 <br/>
